@@ -1,8 +1,8 @@
 # Documentation
 
-La documentation générée comprend l'ensembles des classes du projet.
+La documentation générée comprend l'ensemble des classes du projet.
 
-Seule la classe `Process` et ses méthodes possèdent une description détaillée de leur fonctionnement pour faciliter leur utilisation.
+Seule la classe Process et ses méthodes disposent d'une description détaillée de leur fonctionnement, afin d'en faciliter l'utilisation.
 
 ## Génération
 ```bash
